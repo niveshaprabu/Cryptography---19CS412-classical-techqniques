@@ -324,7 +324,6 @@ Testing algorithm with different key values.
 ## PROGRAM:
 ```
 #include <stdio.h>
-#include<conio.h>
 #include <ctype.h>
 #include <string.h>
 void encipher();
@@ -389,7 +388,8 @@ return 0;
 }
 ```
 ## OUTPUT:
-![VIGER](https://github.com/niveshaprabu/Cryptography---19CS412-classical-techqniques/assets/122986499/0a2cc188-0d97-4a8c-bb8c-dd3427ed1337)
+![vigenere](https://github.com/niveshaprabu/Cryptography---19CS412-classical-techqniques/assets/122986499/67987110-7fd7-4c3f-a5c5-4c6c3e8e2ee1)
+
 
 ## RESULT:
 The program is executed successfully
